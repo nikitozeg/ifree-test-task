@@ -21,4 +21,4 @@ To see a report, run `mvn jetty:run` and open `http://localhost:8080` in your br
 **NOTE: required maven version 3.1.1 or above**
 
 ### More
- Contact me: tazg@ya.ru
+ Please, feel free to contact me: tazg@ya.ru
