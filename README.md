@@ -11,7 +11,7 @@ To run tests you need to install [maven][maven], [java][java], git and [firefox]
 To generate Allure Report you should perform following steps:
 
 ```bash
-$ git clone git@github.com:allure-examples/allure-testng-example.git
+$ git clone git@github.com:nikitozeg/ifree-test-task.git
 $ mvn clean test
 $ mvn site
 ```
