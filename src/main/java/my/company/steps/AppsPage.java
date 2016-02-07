@@ -17,7 +17,7 @@ public class AppsPage {
         this.driver = driver;
     }
 
-    By appNameLocator = By.id("name");
+    By appNameLocator = By.cssSelector("input#name.form-control");
     By clickAddNewAppLocator = By.cssSelector("a.pull-right");
     By setCategoryCheckboxLocator = By.xpath("//span[@class=\"tree-checkbox tree-checkbox0\"]");
     By clickSaveLocator = By.cssSelector("a.btn.btn-lg.btn-success");
