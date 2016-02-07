@@ -5,6 +5,7 @@
 ## iFree Moneytapp autotests (test task)
 
 ### Getting Started
+Used stack: Java SDK, Selenium WebDriver.
 Tests based on PageObject model, which encapsulates all logic of the page on it class, also it helps to reduce the code and its support.
 
 To run tests you need to install [maven][maven], [java][java], git and [firefox][firefox].
